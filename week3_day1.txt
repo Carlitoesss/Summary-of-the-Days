@@ -1,0 +1,1 @@
+We learned about JavaScript and how to use it without var... The  we learned about variables const, let and when to use them.
